@@ -6,8 +6,8 @@ I recently completed training in back-end web development with Python and Django
 
 💻 My journey so far:
 
-    Gaining hands-on experience with Django for back-end development.
-    Exploring the world of front-end development to create more interactive and user-friendly web experiences.
+  *  Gaining hands-on experience with Django for back-end development.
+  *  Exploring the world of front-end development to create more interactive and user-friendly web experiences.
 
 ✨ Fun fact: When I’m not coding, you’ll find me climbing volcanoes, walking in the Amazonian jungle, or enjoying hiking and birdwatching—adventures that keep me curious and inspired!
 
