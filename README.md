@@ -7,14 +7,14 @@ I’m passionate about the process of learning and acquiring new skills. Tacklin
 
 💻 My journey so far:
 
-  * Hands-on experience with Django for back-end development.
-  * Exploring front-end technologies to create interactive and user-friendly web experiences.
+   * Hands-on experience with Django for back-end development.
+   * Exploring front-end technologies to create interactive and user-friendly web experiences.
 
 🌍 Beyond coding:
 When I’m not at my desk, you’ll find me:
 
-  * Climbing volcanoes
-  * Walking in the Amazonian jungle
-  * Hiking or birdwatching
+   * Climbing volcanoes
+   * Walking in the Amazonian jungle
+   * Hiking or birdwatching
 
 🚀 I’m excited to keep learning and growing, one project at a time.
