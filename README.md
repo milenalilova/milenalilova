@@ -1,14 +1,20 @@
 # Hi there! 👋
 
-🌱 I recently completed training in back-end web development with Python and Django, and I’m now diving into front-end development with CSS, HTML, and JavaScript.
+🌱 I recently completed training in back-end web development with Python and Django. Currently, I’m expanding my skills in front-end development, learning CSS, HTML, and JavaScript.
 
-What excites me most is the process of learning and acquiring new skills. The challenge of building web applications and expanding my technical abilities has been a truly rewarding experience.
+✨ What drives me:
+I’m passionate about the process of learning and acquiring new skills. Tackling challenges, building web applications, and growing my technical abilities has been an incredibly rewarding journey.
 
 💻 My journey so far:
 
-   * Gaining hands-on experience with Django for back-end development.
-   * Exploring the world of front-end development to create more interactive and user-friendly web experiences.
+  * Hands-on experience with Django for back-end development.
+  * Exploring front-end technologies to create interactive and user-friendly web experiences.
 
-✨ Fun fact: When I’m not coding, you’ll find me climbing volcanoes, walking in the Amazonian jungle, or enjoying hiking and birdwatching—adventures that keep me curious and inspired!
+🌍 Beyond coding:
+When I’m not at my desk, you’ll find me:
 
-🚀 I’m excited to continue learning and growing, one project at a time. 
+  * Climbing volcanoes
+  * Walking in the Amazonian jungle
+  * Hiking or birdwatching
+
+🚀 I’m excited to keep learning and growing, one project at a time.
